@@ -8,7 +8,7 @@
 💼 My stack is: 
 <br> 
 <br>
-- **`JavaScript (Typescript)`**
+- JavaScript, Typescript
 <br>
 - React
 <br>
@@ -27,7 +27,7 @@
           <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /> &nbsp; &nbsp;
 <div/>
 <hr>
-💀 Stats
+💀 Stats:
 <br>
 <br>
 <image src="https://github-readme-stats.vercel.app/api?username=krinjmaster&show_icons=true&theme=aura" />
