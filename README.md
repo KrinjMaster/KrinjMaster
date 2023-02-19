@@ -9,6 +9,6 @@ I'm Max, a 14y.o kid. Seeing myself in future as a Senior Web Developer. Now exp
 `planning to learn Zustand, maybe Redux` <br>
 `HTML, CSS, TailWind` <br>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
           
 
