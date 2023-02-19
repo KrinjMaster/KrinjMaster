@@ -18,7 +18,8 @@ I'm Max, a 14y.o kid. Seeing myself in future as a Senior Web Developer. Now exp
 <div/>
 <hr>
 ### 💀 Stats <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krinjmaster&show_icons=true&theme=auro)
+<image src="https://github-readme-stats.vercel.app/api?username=krinjmaster&show_icons=true&theme=aura" />
+<hr>
 
           
           
