@@ -1,4 +1,4 @@
-<h1 style="color:purple;">Hello World</h1>
+# Krinj Master 😴
 
 **`14 y.o Junior FrontEnd Web Developer / Designer`**
 
