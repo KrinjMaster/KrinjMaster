@@ -8,13 +8,13 @@
 💼 My stack is: 
 <br> 
 <br>
-JavaScript (Typescript)
+- **`JavaScript (Typescript)`**
 <br>
-React
+- React
 <br>
-planning to learn Zustand, maybe Redux
+- planning to learn Zustand, maybe Redux
 <br>
-HTML, CSS, TailWind, Bootstrap
+- HTML, CSS, TailWind, Bootstrap
 <br>
 <br>
 
