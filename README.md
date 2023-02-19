@@ -1,5 +1,7 @@
 ### Krinj Master 😴
 
+**`14 y.o Junior FrontEnd Web Developer / Designer`**
+
 <!--
 **KrinjMaster/KrinjMaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
