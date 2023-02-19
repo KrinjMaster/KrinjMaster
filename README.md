@@ -17,7 +17,7 @@ I'm Max, a 14y.o kid. Seeing myself in future as a Senior Web Developer. Now exp
           <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /> &nbsp; &nbsp;
 <div/>
 <hr>
-# 💀 Stats <br>
+**💀 Stats** <br><br>
 <image src="https://github-readme-stats.vercel.app/api?username=krinjmaster&show_icons=true&theme=aura" />
 <hr>
 
