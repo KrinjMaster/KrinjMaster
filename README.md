@@ -5,16 +5,17 @@
 **I'm Max, a 14y.o kid. Seeing myself in future as a Senior Web Developer. Now exploring a beutiful frontend sphere.**
 <br>
 <hr>
-💼 **My stack is**: 
+💼 My stack is: 
 <br> 
 <br>
-`JavaScript (Typescript)` 
+JavaScript (Typescript)
 <br>
-`React`
+React
 <br>
-`planning to learn Zustand, maybe Redux`
+planning to learn Zustand, maybe Redux
 <br>
-`HTML, CSS, TailWind, Bootstrap`
+HTML, CSS, TailWind, Bootstrap
+<br>
 <br>
 
 <div style={{display: flex}}>
@@ -26,7 +27,7 @@
           <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /> &nbsp; &nbsp;
 <div/>
 <hr>
-💀 **Stats**
+💀 Stats
 <br>
 <br>
 <image src="https://github-readme-stats.vercel.app/api?username=krinjmaster&show_icons=true&theme=aura" />
