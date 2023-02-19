@@ -1,4 +1,4 @@
-<h1 style="color:purple;">Krinj Master 😴</>
+<h1 style="color:purple;">Krinj Master 😴<h1/>
 
 **`14 y.o Junior FrontEnd Web Developer / Designer`**
 
