@@ -5,7 +5,7 @@
 **I'm Max, a 14y.o kid. Seeing myself in future as a Senior Web Developer. Now exploring a beutiful frontend sphere.**
 <br>
 <hr>
-My stack is: 
+💼 My stack is: 
 <br> 
 <br>
 `JavaScript (Typescript)` 
