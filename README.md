@@ -1,4 +1,4 @@
-# Krinj Master 😴
+`diff -# Krinj Master 😴`
 
 **`14 y.o Junior FrontEnd Web Developer / Designer`**
 
