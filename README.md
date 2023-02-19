@@ -8,10 +8,4 @@ I'm Max, a 14y.o kid. Seeing myself in future as a Senior Web Developer. Now exp
 `planning to learn Zustand, maybe Redux`<br>
 `HTML, CSS, TailWind`<br>
 
-```diff
-+ Green
-- Red
-! Orange
-@@ Pink @@
-# Gray
-...
+
