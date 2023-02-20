@@ -2,7 +2,7 @@
 
 **`Junior FrontEnd Web Developer / Designer`**
 
-**I'm Max, a 14y.o kid. Seeing myself in future as a Senior Web Developer. Now exploring a beutiful frontend sphere.**
+**I'm Max, a 14y.o. kid. See myself in the future as a Senior Web Developer. Now I'm exploring a beutiful frontend sphere.**
 <br>
 <hr>
 💼 My stack is: 
