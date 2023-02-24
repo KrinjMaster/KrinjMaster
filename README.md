@@ -30,6 +30,7 @@
 <br>
 <br>
 <image src="https://github-readme-stats.vercel.app/api?username=krinjmaster&show_icons=true&theme=aura" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krinjmaster&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 <hr>
           
           
