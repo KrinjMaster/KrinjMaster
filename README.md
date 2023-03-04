@@ -20,8 +20,6 @@
 <br>
 - HTML, CSS, TailWind, Bootstrap
 <br>
-- Rest Api
-<br>
 
 <hr>
 💀 Stats:
