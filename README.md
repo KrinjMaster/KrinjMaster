@@ -10,8 +10,6 @@
 <br> 
 - Vite, vitest
 <br>
-- EsLint
-<br>
 - JavaScript, Typescript
 <br>
 - React
