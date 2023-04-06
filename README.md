@@ -12,11 +12,15 @@
 <br>
 - JavaScript, Typescript
 <br>
+- Next JS
+<br>
 - React
 <br>
 - Zustand
 <br>
 - HTML, CSS, TailWind, Bootstrap
+<br>
+- Three JS / R3F
 <br>
 
 <hr>
