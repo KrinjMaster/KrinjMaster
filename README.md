@@ -23,9 +23,7 @@
 💀 Stats:
 <br>
 <br>
-<image src="https://github-readme-stats.vercel.app/api?username=krinjmaster&show_icons=true&theme=aura" />
-<image src="https://github-readme-stats.vercel.app/api/top-langs/?username=krinjmaster&hide_progress=false&theme=aura" />
-<hr>
+
           
           
           
