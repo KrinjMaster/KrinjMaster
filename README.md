@@ -7,20 +7,16 @@
 <hr>
 💼 My stack is:
 <br>
-<br> 
-- Vite, vitest
 <br>
 - JavaScript, Typescript
 <br>
-- Next JS
-<br>
 - React
+<br>
+- Next JS
 <br>
 - Zustand
 <br>
 - HTML, CSS, TailWind, Bootstrap
-<br>
-- Three JS / R3F
 <br>
 
 <hr>
