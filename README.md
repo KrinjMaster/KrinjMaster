@@ -1,4 +1,4 @@
-# Krinj Master 😴
+# aka Krinj Master 😴
 
 **`Junior FrontEnd Web Developer / Designer`**<br/>
 
