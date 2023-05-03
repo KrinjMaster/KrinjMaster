@@ -16,8 +16,6 @@
 <br>
 - Next JS
 <br>
-- Zustand
-<br>
 - HTML, CSS, TailWind, Bootstrap
 <br>
 
