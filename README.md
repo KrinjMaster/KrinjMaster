@@ -14,7 +14,7 @@
 <br>
 - React
 <br>
-- Zuatand
+- Zustand
 <br>
 - Next JS
 <br>
