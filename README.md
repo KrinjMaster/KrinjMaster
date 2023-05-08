@@ -14,6 +14,8 @@
 <br>
 - React
 <br>
+- Zuatand
+<br>
 - Next JS
 <br>
 - HTML, CSS, TailWind, Bootstrap
