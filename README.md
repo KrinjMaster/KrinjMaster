@@ -14,8 +14,6 @@
 <br>
 - React
 <br>
-- Zustand
-<br>
 - Next JS
 <br>
 - HTML, CSS, TailWind, Bootstrap
