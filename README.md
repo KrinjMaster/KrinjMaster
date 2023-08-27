@@ -14,9 +14,11 @@
 <br>
 - Next JS
 <br>
+<br>
+- Sveltekit
+<br>
 - HTML, CSS, TailWind, Bootstrap
 <br>
-
 <hr>
 
 
