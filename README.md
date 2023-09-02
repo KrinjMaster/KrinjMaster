@@ -2,7 +2,6 @@
 
 **`Junior FrontEnd Web Developer / Designer`**<br/>
 
-<br>
 <hr>
 💼 My stack is:
 <br>
