@@ -1,6 +1,6 @@
 # aka Krinj Master 😴
 
-**`Junior FrontEnd Web Developer / Designer`**<br/>
+**`Junior FrontEnd Web Developer`**<br/>
 
 <hr>
 💼 My stack is:
