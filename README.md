@@ -12,7 +12,7 @@
 <br>
 - Next JS
 <br>
-- Sveltekit
+- Svelte
 <br>
 - HTML, CSS, TailWind, Bootstrap
 <br>
