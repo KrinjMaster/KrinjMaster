@@ -1,6 +1,6 @@
 # aka Krinj Master 😴
 
-**`Young men thrilled to be oblitirated by tech bros on StackOverflow`**<br/>
+**`Young men thrilled to be obliterated by tech bros on StackOverflow`**<br/>
 
 <hr>
 💼 My stack is:
