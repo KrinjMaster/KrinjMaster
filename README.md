@@ -1,6 +1,6 @@
 # aka Krinj Master 😴
 
-**`Junior FrontEnd Web Developer`**<br/>
+**`Young men thrilled to be oblitirated by tech bros on StackOverflow`**<br/>
 
 <hr>
 💼 My stack is:
