@@ -6,7 +6,7 @@
 💼 My stack is:
 <br>
 <br>
-- JavaScript, Typescript
+- JavaScript, Typescript, Rust
 <br>
 - React
 <br>
