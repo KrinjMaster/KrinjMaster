@@ -2,17 +2,12 @@
 
 **`Young men thrilled to be obliterated by tech bros on StackOverflow`**<br/>
 
-<hr>
-💼 My stack is:
-<br>
 <br>
 - JavaScript, Typescript, Rust
 <br>
-- React
+- React, Next JS
 <br>
-- Next JS
-<br>
-- Svelte
+- Svelte, Sveltekit
 <br>
 - HTML, CSS, TailWind, Bootstrap
 <br>
